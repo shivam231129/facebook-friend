@@ -1,1 +1,1 @@
-# facebook-friend
+# keras_mnist
